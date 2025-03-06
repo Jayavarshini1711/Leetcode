@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Jayavarshini1711/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Jayavarshini1711/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayavarshini1711/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3227-find-missing-and-repeated-values](https://github.com/Jayavarshini1711/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Jayavarshini1711/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Jayavarshini1711/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/Jayavarshini1711/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Jayavarshini1711/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [3227-find-missing-and-repeated-values](https://github.com/Jayavarshini1711/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -40,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayavarshini1711/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/Jayavarshini1711/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
