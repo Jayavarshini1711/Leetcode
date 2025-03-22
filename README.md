@@ -61,4 +61,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jayavarshini1711/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Jayavarshini1711/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Jayavarshini1711/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Jayavarshini1711/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Jayavarshini1711/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Graph
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Jayavarshini1711/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
