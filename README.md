@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Jayavarshini1711/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Jayavarshini1711/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Jayavarshini1711/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Jayavarshini1711/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Jayavarshini1711/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Jayavarshini1711/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Jayavarshini1711/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Jayavarshini1711/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Jayavarshini1711/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Jayavarshini1711/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Jayavarshini1711/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Jayavarshini1711/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/Jayavarshini1711/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2681-put-marbles-in-bags](https://github.com/Jayavarshini1711/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Jayavarshini1711/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
