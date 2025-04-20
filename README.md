@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Jayavarshini1711/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Jayavarshini1711/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0797-rabbits-in-forest](https://github.com/Jayavarshini1711/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Jayavarshini1711/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Jayavarshini1711/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Jayavarshini1711/Leetcode/tree/master/1656-count-good-triplets) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Jayavarshini1711/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/Jayavarshini1711/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Jayavarshini1711/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2050-count-good-numbers](https://github.com/Jayavarshini1711/Leetcode/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Jayavarshini1711/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Jayavarshini1711/Leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Jayavarshini1711/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Jayavarshini1711/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jayavarshini1711/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3227-find-missing-and-repeated-values](https://github.com/Jayavarshini1711/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Jayavarshini1711/Leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/Jayavarshini1711/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [2681-put-marbles-in-bags](https://github.com/Jayavarshini1711/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Jayavarshini1711/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sorting
