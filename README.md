@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Jayavarshini1711/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Jayavarshini1711/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/Jayavarshini1711/Leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Jayavarshini1711/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Jayavarshini1711/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Jayavarshini1711/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/Jayavarshini1711/Leetcode/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/Jayavarshini1711/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Jayavarshini1711/Leetcode/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/Jayavarshini1711/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jayavarshini1711/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Jayavarshini1711/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/Jayavarshini1711/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Jayavarshini1711/Leetcode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayavarshini1711/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jayavarshini1711/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Simulation
