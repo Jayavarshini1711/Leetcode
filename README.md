@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Jayavarshini1711/Leetcode/tree/master/1656-count-good-triplets) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Jayavarshini1711/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jayavarshini1711/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Jayavarshini1711/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/Jayavarshini1711/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Jayavarshini1711/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Jayavarshini1711/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Jayavarshini1711/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Jayavarshini1711/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Jayavarshini1711/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Jayavarshini1711/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Jayavarshini1711/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Jayavarshini1711/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3548-find-the-count-of-good-integers](https://github.com/Jayavarshini1711/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Jayavarshini1711/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Jayavarshini1711/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Jayavarshini1711/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2681-put-marbles-in-bags](https://github.com/Jayavarshini1711/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Jayavarshini1711/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Jayavarshini1711/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Jayavarshini1711/Leetcode/tree/master/1656-count-good-triplets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Jayavarshini1711/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Jayavarshini1711/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Jayavarshini1711/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Combinatorics
