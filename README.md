@@ -1,5 +1,5 @@
 # Leetcode Problem Solutions
-This repository contains my solutions to various Leetcode problems. It serves as a record of my learning journey and a reference for preparing technical interviews using clean, optimized code in Python
+This repository contains my solutions to various Leetcode problems. It serves as a record of my learning journey and a reference for preparing technical interviews using clean, optimized code in C++.
 
 
 ## Array
