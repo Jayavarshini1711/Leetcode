@@ -1,24 +1,19 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int n = nums.size();
-        int n1 = n / 2;
-        int count = 1;
-        int m = nums[0]; // initialize with the first element
+    int n = nums.size();
+    int cnt = 0; 
+    int el; 
 
-        sort(nums.begin(), nums.end());
-
-        for (int i = 1; i < n; i++) {
-            if (nums[i] == nums[i - 1]) {
-                count++;
-                if (count > n1) {
-                    return nums[i]; // return immediately once found
-                }
-            } else {
-                count = 1; // reset count
-            }
+    //applying the algorithm:
+    for (int i = 0; i < n; i++) {
+        if (cnt == 0) {
+            cnt = 1;
+            el = nums[i];
         }
-
-        return m; // fallback (in case majority is at the start)
+        else if (el == nums[i]) cnt++;
+        else cnt--;
+    } 
+    return el;
     }
 };
